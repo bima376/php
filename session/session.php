@@ -12,3 +12,4 @@ and isset($_SESSION['password'])) {
 } else {
     echo "anda belum login";
 }
+
