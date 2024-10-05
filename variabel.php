@@ -8,3 +8,4 @@ echo "kendaraan gue: ".$kendaraan." ada :".$punya;
 ?>
 
 <!-- BUKA BROWSER UTK MELIHAT -->
+ 
