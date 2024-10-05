@@ -23,4 +23,3 @@ $bima = new Orang();
 
 // MENAMPILKAN DI TERMINAL
 // php oop.php
-
